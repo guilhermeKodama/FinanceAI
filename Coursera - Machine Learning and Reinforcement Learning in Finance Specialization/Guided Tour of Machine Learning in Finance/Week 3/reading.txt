@@ -1,0 +1,4 @@
+A.Geron, “Hands-On ML”, Chapter 9, Chapter 4 (Gradient Descent)
+E. Fama and K. French, “Size and Book-to-Market Factors in Earnings and Returns”, Journal of Finance, vol. 50, no. 1 (1995), pp. 131-155.
+J. Piotroski, “Value Investing: The Use of Historical Financial Statement Information to Separate Winners from Losers”, Journal of Accounting Research, Vol. 38, Supplement: Studies on Accounting Information and the Economics of the Firm (2000), pp. 1-41
+
